@@ -1,0 +1,12 @@
+       #in{
+           width:80%;          
+       }
+    .jumbotron{
+        background:url("sample.jpeg");
+        padding-bottom:0;
+        padding-left:0;
+        padding-right:0;
+        margin-left:0;
+        margin-right:0;
+        margin-bottom:0;
+    }
